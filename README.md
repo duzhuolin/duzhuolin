@@ -1,5 +1,5 @@
 ### Hi there 👋
-I’m currently working on cliamte change and biodiversity
+I’m currently working on climate change and biodiversity. Glad meet u all and talk about the up-to-date ecological issues happening in the world!
 <!--
 **duzhuolin/duzhuolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
