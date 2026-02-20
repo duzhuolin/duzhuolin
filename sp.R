@@ -1,3 +1,3 @@
-s=1
-p=2
-print(s+p)
+me = Zhuolin
+major = Ecology
+print(paste0(me, "love", major)
